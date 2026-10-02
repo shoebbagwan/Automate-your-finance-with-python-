@@ -1,0 +1,36 @@
+{
+    "Shopping": [
+        "noon",
+        "amazon",
+        "lulu"
+    ],
+    "Subscriptions": [
+        "netflix",
+        "spotify",
+        "apple.com/bill",
+        "google *"
+    ],
+    "Travel": [
+        "uber",
+        "careem",
+        "emirates",
+        "etihad",
+        "airlines"
+    ],
+    "Insurance": [
+        "insurance",
+        "takaful"
+    ],
+    "Bank Fees": [
+        "fee",
+        "service charge",
+        "vat"
+    ],
+    "Utilities": [
+        "dewa",
+        "etisalat",
+        "du telecom",
+        "salik"
+    ],
+    "Uncategorized": []
+}
