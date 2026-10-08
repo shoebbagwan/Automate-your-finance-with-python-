@@ -47,7 +47,7 @@ The app opens at <http://localhost:8501>.
 
 1. Upload your bank statement CSV.
 2. Check the metric cards: total expenses, payments received, and uncategorised count.
-3. In the **Expenses (Debits)** tab, find rows marked `Uncategorized`, pick a category from the dropdown, and click **Apply & Save Changes**.
+3. In the **Expenses (Debits)** tab, find rows marked `Uncategorized`, pick a category from the dropdown and click **Apply & Save Changes**.
 4. Use **Add a new category** to create your own categories.
 5. Scroll down for the summary table and pie chart. Click legend items to hide or show categories.
 6. Open the **Payments & Income (Credits)** tab to see card payments and money received.
