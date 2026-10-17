@@ -1,4 +1,4 @@
-# Personal Finance Dashboard
+# Personal Finance Dashboard --
 
 An interactive finance dashboard built with Streamlit, Pandas and Plotly. Upload a bank or credit card statement as CSV, Excel (`.xls` / `.xlsx`) or PDF and the app cleans the data, separates expenses from payments, auto-categorises transactions using keyword rules and visualises your spending.
 
