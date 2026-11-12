@@ -6,7 +6,7 @@ Everything runs locally so your statements stay on your machine.
 
 ## Project Details
 
-- **Automatic data cleaning:** trims column names, parses dates, and converts amounts with commas, currency symbols, negatives or `(parentheses)` into numbers
+- **Automatic data cleaning:** trims column names, parses dates and converts amounts with commas, currency symbols, negatives or `(parentheses)` into numbers
 - **Multiple statement formats:** CSV, Excel (`.xls`, `.xlsx`) and text-based PDF statements all feed the same cleaning and categorisation pipeline
 - **Expenses vs. payments:** debits and credits are split into separate tabs so card payments don't inflate your spending
 - **Rule-based categorisation:** transaction descriptions are matched against keywords stored in `categories.json`
